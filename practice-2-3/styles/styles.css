@@ -1,0 +1,64 @@
+
+.hidden {
+  display: none !important;
+}
+
+.search_group {
+  margin: 30px;
+
+}
+
+input {
+  width: 250px;
+  padding: 10px 30px 10px 10px;
+  box-shadow: 1px 1px 5px #6A6E72;
+  outline: none;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+svg {
+  position: relative;
+  left: -28px;
+  top: 3px;
+  cursor: pointer;
+}
+
+button {
+  position: relative;
+  left: -10px;
+  padding: 6px 14px;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+table {
+  border: 2px solid rgb(0, 0, 0);
+  border-collapse: collapse;
+}
+
+thead {
+  border: 2px solid rgb(0, 0, 0);
+  background-color: #cedff5;
+  font-weight: 600;
+}
+
+thead td:hover {
+  background-color: #b9cae1;
+}
+
+td[data-sorted="sorted"] {
+  background-image: url("../img/arrow.png");
+}
+
+td[data-sorted="reverse"] {
+  background-image: url("../img/arrow_up.png");
+}
+
+td {
+  padding: 5px 20px 5px 5px;
+  border: 1px solid rgb(0, 0, 0);
+  background-repeat: no-repeat;
+  background-position: center right 7px;
+}
