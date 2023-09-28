@@ -32,7 +32,7 @@ const arr = [10, 12, 15, 21];
 
 #### 2.1. Смотреть код: [practice-1](./practice-1/)  Публикация на [Github Pages](https://nagraiv.github.io/UniBase-practice1/).
 
-#### 2.2. Смотреть код: [practice-2](./practice-2-3/practice-2.html)  Публикация на [Github Pages](https://nagraiv.github.io/UniBase-testTask/).
+#### 2.2. Смотреть код: [practice-2](./practice-2-3/practice-2.html).
 
 #### 2.3. Смотреть код: [practice-3](./practice-2-3/)  Публикация на [Github Pages](https://nagraiv.github.io/UniBase-practice2-3/).
 
